@@ -5,7 +5,7 @@
   "main": "dist/index.js",
   "repository": {
     "type": "git",
-    "url": "git@github.com:bucko13/bpanel-dashboard.git"
+    "url": "git@github.com:bpanel-org/dashboard.git"
   },
   "scripts": {
     "babel": "babel --presets=env,stage-3 lib -d dist",
