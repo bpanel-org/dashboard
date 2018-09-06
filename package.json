@@ -24,7 +24,6 @@
   "author": "bcoin-org",
   "license": "MIT",
   "dependencies": {
-    "@bpanel/chain-sockets": "^0.0.1",
     "babel-cli": "^6.26.0",
     "babel-plugin-transform-runtime": "^6.23.0"
   },
