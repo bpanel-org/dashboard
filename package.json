@@ -1,6 +1,6 @@
 {
   "name": "@bpanel/dashboard",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A bPanel plugin for displaying node and blockchain information at a glance.",
   "main": "dist/index.js",
   "repository": {
